@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.40742cfb.css",
+    "main.js": "/portfolio/static/js/main.d65000a9.js",
+    "static/media/android-icon.png": "/portfolio/static/media/android-icon.891c5ea389ff01ad2a0a.png",
+    "static/media/background_night1.jpg": "/portfolio/static/media/background_night1.a34bd81bfa5012beb154.jpg",
+    "static/media/avion.png": "/portfolio/static/media/avion.95fb44ca22c638733903.png",
+    "static/media/aaronProfilPicChihrour.jpg": "/portfolio/static/media/aaronProfilPicChihrour.abc0f47253a4e1c4ccab.jpg",
+    "static/media/clouds.jpg": "/portfolio/static/media/clouds.d843e2003d05102efe57.jpg",
+    "static/media/FrontEndCvAaronM.pdf": "/portfolio/static/media/FrontEndCvAaronM.a242d4146e215c81c020.pdf",
+    "static/media/logo.png": "/portfolio/static/media/logo.8e64849d87ffe731cd43.png",
+    "index.html": "/portfolio/index.html",
+    "main.40742cfb.css.map": "/portfolio/static/css/main.40742cfb.css.map",
+    "main.d65000a9.js.map": "/portfolio/static/js/main.d65000a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40742cfb.css",
+    "static/js/main.d65000a9.js"
+  ]
+}
