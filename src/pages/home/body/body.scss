@@ -1,0 +1,98 @@
+.body-container {
+
+    padding-top: 200px;
+    height: fit-content;
+    background-color: #010409;
+
+    .last-experience {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        .bg1{
+            background-color: #010409;
+            background-image: url("../../../assets/avion.png");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-attachment: fixed;
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        
+        }
+        .bg2{
+            background-color: #010409;
+            background-image: url("../../../assets/android-icon.png");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-attachment: fixed;
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            min-height: 60vh;
+        
+        }
+
+        .header {
+            text-align: center;
+            align-self: center;
+            margin: 5px;
+            font-size: 5vw;
+
+            .profession {
+                font-weight: bold;
+            }
+
+            .location-date {
+                span {
+                    font-weight: bold;
+                }
+            }
+        }
+        .content{
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+            justify-content: center;
+            width: 75%;
+            padding: 0px 20px 0px 20px;
+            margin: 20px 0px 20px 0px;
+            font-weight: 600;
+            background-color: rgba(255, 255, 255, 0.815);
+            color: black;
+            border-left: 1px solid #042454;
+            border-radius: 15px;
+
+            .border-top{
+                align-self: center;
+                width: 80%;
+                height: 1px;
+                background-color: #042454;
+            }
+
+            p{
+                width: 100%;
+            }
+            
+        }
+    }
+}
+
+    @media only screen and (min-width: 768px) {
+        .body-container {
+            .last-experience{
+                .header{
+                    font-size: 4vh;
+                }
+                .content{
+                    width: 60%;
+                }
+            }
+        }
+    }

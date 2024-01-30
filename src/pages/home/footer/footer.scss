@@ -1,0 +1,117 @@
+.footer-container {
+
+    #wave {
+        position: relative;
+        height: 70px;
+        width: 100%;
+        background: #010409;
+    }
+
+    #wave:before {
+        content: "";
+        display: block;
+        position: absolute;
+        border-radius: 100% 50%;
+        width: 55%;
+        height: 80px;
+        background-color: white;
+        right: -5px;
+        top: 40px;
+    }
+
+    #wave:after {
+        content: "";
+        display: block;
+        position: absolute;
+        border-radius: 100% 50%;
+        width: 55%;
+        height: 100px;
+        background-color: #010409;
+        left: 0;
+        top: 4px;
+    }
+
+    .footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: column;
+        color: black;
+        font-weight: 600;
+        margin-top: 90px;
+
+        .info {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            width: 100%;
+            height: 100%;
+
+            .name-img {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-between;
+                height: 100%;
+
+                .img {
+                    width: 150px;
+                    height: 150px;
+                    border-radius: 50%;
+                    background-image: url("../../../assets/profile/aaronProfilPicChihrour.jpg");
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: 0px -40px;
+                    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.63);
+                }
+            }
+
+            .contact {
+
+                display: flex;
+                flex-direction: column;
+                align-items: start;
+                justify-content: start;
+                height: 100%;
+
+                .num {
+                    margin-top: 10px;
+                }
+            }
+        }
+
+        .links {
+            margin-top: 50px;
+            color: black;
+            div{margin: 15px;}
+
+            .linkedin {
+                a {
+                    color: black !important;
+                }
+                span{
+                    padding: 5px;
+                    background-color: #0077b5;
+                }
+            }
+            .YT{
+                a {
+                    color: black !important;
+                }
+                span{
+                    padding: 5px;
+                    background-color: #FF0000;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .links{
+        display: flex;
+    }
+     #wave:after {
+        width: 54%;
+    }
+}
