@@ -77,6 +77,9 @@
                 .num {
                     margin-top: 10px;
                 }
+                .name {
+                    margin-bottom: 10px;
+                }
             }
         }
 
@@ -113,5 +116,8 @@
     }
      #wave:after {
         width: 54%;
+    }
+     #wave:before {
+        width: 55%;
     }
 }
