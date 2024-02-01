@@ -29,7 +29,7 @@ const Header = () => {
                 <div className="profession">Front-end Developer</div>
                 <div className="profession-effect">Front-end Developer</div>
                 <div className="cv">
-                    <a href={pdfLink} download="FrontEndCvAaronMindes">Download Cv</a>
+                    <a href={pdfLink} download="FrontEndCvAaronMindes">Download Resume</a>
                 </div>
             </div>
         </div>

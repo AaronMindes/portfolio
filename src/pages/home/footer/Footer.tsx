@@ -21,7 +21,7 @@ const Footer = () => {
                 <div className="links">
                     <div className="linkedin"><a href='https://www.linkedin.com/in/aaron-mindes-49670617b/' target="_blank" rel="noopener noreferrer">Linkedin <span><FontAwesomeIcon icon={faI} color='white'></FontAwesomeIcon><FontAwesomeIcon icon={faN} color='white'></FontAwesomeIcon></span></a></div>
                     <div className="YT"><a href='https://www.youtube.com/@KodKodProgramming' target="_blank" rel="noopener noreferrer">Youtube Programation <span><FontAwesomeIcon icon={faY} color='white'></FontAwesomeIcon><FontAwesomeIcon icon={faT} color='white'></FontAwesomeIcon></span></a></div>
-                    <div className="YT"><a href='https://www.youtube.com/@AaronMindes' target="_blank" rel="noopener noreferrer">YouTube Music<span><FontAwesomeIcon icon={faY} color='white'></FontAwesomeIcon><FontAwesomeIcon icon={faT} color='white'></FontAwesomeIcon><FontAwesomeIcon  icon={['fab', 'facebook-f']}></FontAwesomeIcon></span></a></div>
+                    <div className="YT"><a href='https://www.youtube.com/@AaronMindes' target="_blank" rel="noopener noreferrer">YouTube Music<span><FontAwesomeIcon icon={faY} color='white'></FontAwesomeIcon><FontAwesomeIcon icon={faT} color='white'></FontAwesomeIcon></span></a></div>
                 </div>
             </div>
         </div>
