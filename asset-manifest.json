@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a6fa1f53.css",
-    "main.js": "/portfolio/static/js/main.91ad435f.js",
+    "main.css": "/portfolio/static/css/main.b2211851.css",
+    "main.js": "/portfolio/static/js/main.df7698e8.js",
     "static/media/FlightManagementDemo.mp4": "/portfolio/static/media/FlightManagementDemo.8bb580e4d02b5298275b.mp4",
     "static/media/android-icon.png": "/portfolio/static/media/android-icon.891c5ea389ff01ad2a0a.png",
     "static/media/background_night1.jpg": "/portfolio/static/media/background_night1.a34bd81bfa5012beb154.jpg",
@@ -11,11 +11,11 @@
     "static/media/clouds.jpg": "/portfolio/static/media/clouds.d843e2003d05102efe57.jpg",
     "static/media/logo.png": "/portfolio/static/media/logo.8e64849d87ffe731cd43.png",
     "index.html": "/portfolio/index.html",
-    "main.a6fa1f53.css.map": "/portfolio/static/css/main.a6fa1f53.css.map",
-    "main.91ad435f.js.map": "/portfolio/static/js/main.91ad435f.js.map"
+    "main.b2211851.css.map": "/portfolio/static/css/main.b2211851.css.map",
+    "main.df7698e8.js.map": "/portfolio/static/js/main.df7698e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6fa1f53.css",
-    "static/js/main.91ad435f.js"
+    "static/css/main.b2211851.css",
+    "static/js/main.df7698e8.js"
   ]
 }
