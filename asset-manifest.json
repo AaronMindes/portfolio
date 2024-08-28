@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b2211851.css",
-    "main.js": "/portfolio/static/js/main.df7698e8.js",
+    "main.css": "/portfolio/static/css/main.db70ead6.css",
+    "main.js": "/portfolio/static/js/main.3901fa7a.js",
     "static/media/FlightManagementDemo.mp4": "/portfolio/static/media/FlightManagementDemo.8bb580e4d02b5298275b.mp4",
+    "static/media/aaronProfilPic.jpg": "/portfolio/static/media/aaronProfilPic.8654e4efbe4120d45e75.jpg",
     "static/media/android-icon.png": "/portfolio/static/media/android-icon.891c5ea389ff01ad2a0a.png",
     "static/media/background_night1.jpg": "/portfolio/static/media/background_night1.a34bd81bfa5012beb154.jpg",
-    "static/media/avion.png": "/portfolio/static/media/avion.95fb44ca22c638733903.png",
-    "static/media/aaronProfilPicChihrour.jpg": "/portfolio/static/media/aaronProfilPicChihrour.abc0f47253a4e1c4ccab.jpg",
+    "static/media/avion2.png": "/portfolio/static/media/avion2.7323050082543d24cc12.png",
     "static/media/FullStackResumeAaronMindes.pdf": "/portfolio/static/media/FullStackResumeAaronMindes.ce5ca346ebf8751b28bd.pdf",
     "static/media/clouds.jpg": "/portfolio/static/media/clouds.d843e2003d05102efe57.jpg",
     "static/media/logo.png": "/portfolio/static/media/logo.8e64849d87ffe731cd43.png",
     "index.html": "/portfolio/index.html",
-    "main.b2211851.css.map": "/portfolio/static/css/main.b2211851.css.map",
-    "main.df7698e8.js.map": "/portfolio/static/js/main.df7698e8.js.map"
+    "main.db70ead6.css.map": "/portfolio/static/css/main.db70ead6.css.map",
+    "main.3901fa7a.js.map": "/portfolio/static/js/main.3901fa7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2211851.css",
-    "static/js/main.df7698e8.js"
+    "static/css/main.db70ead6.css",
+    "static/js/main.3901fa7a.js"
   ]
 }
