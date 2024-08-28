@@ -32,11 +32,7 @@ const Visual = () => {
 
     return (
         <div className='visual'>
-            <div className='label'>
-                <div>Altitude</div>
-                <div>HIS</div>
-                <div>ADI</div>
-            </div>
+           
             <div className='visualContent'>
                 <HeightElement altitude={data.altitude} />
                 <Compass his={data.HIS} />

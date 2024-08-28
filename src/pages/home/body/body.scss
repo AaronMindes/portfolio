@@ -12,7 +12,7 @@
 
         .bg1{
             background-color: #010409;
-            background-image: url("../../../assets/avion.png");
+            background-image: url("../../../assets/avion2.png");
             background-position: center;
             background-repeat: no-repeat;
             background-size: contain;
@@ -64,16 +64,16 @@
             padding: 0px 20px 0px 20px;
             margin: 20px 0px 20px 0px;
             font-weight: 600;
-            background-color: rgba(255, 255, 255, 0.815);
+            background-color: rgba(255, 255, 255, 0.932);
             color: black;
-            border-left: 1px solid #042454;
+            // border-left: 1px solid #042454;
             border-radius: 15px;
 
             .border-top{
                 align-self: center;
                 width: 80%;
                 height: 1px;
-                background-color: #042454;
+                // background-color: #042454;
             }
 
             p{

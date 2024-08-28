@@ -35,8 +35,11 @@ const AngleHorizon = ({ adi }) => {
     });
 
     return (
-        <div className='angleHorizon'>
-            <div className="dot"></div>
+        <div className='angleHorizonContainer'>
+            <div className='label'>ADI</div>
+            <div className='angleHorizon'>
+                <div className="dot"></div>
+            </div>
         </div>
     );
 };
