@@ -3,7 +3,7 @@ import './header.scss'
 
 const Header = () => {
 
-    const pdfLink = require('../../../assets/FrontEndCvAaronM.pdf');
+    const pdfLink = require('../../../assets/FullStackResumeAaronMindes.pdf');
 
 
     return (
@@ -26,10 +26,11 @@ const Header = () => {
                 <div className="star"></div>
             </div>
             <div className="container-p-cv">
-                <div className="profession">Front-end Developer</div>
-                <div className="profession-effect">Front-end Developer</div>
+                <div className="profession">Full-stack Developper</div>
+                <div className="profession-effect">Full-stack Developper</div>
+                <div>Oriented Front-end</div>
                 <div className="cv">
-                    <a href={pdfLink} download="FrontEndCvAaronMindes">Download Resume</a>
+                    <a href={pdfLink} download="FullStackCvAaronMindes">Download Resume</a>
                 </div>
             </div>
         </div>
