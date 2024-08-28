@@ -28,7 +28,7 @@ const Header = () => {
             <div className="container-p-cv">
                 <div className="profession">Full-stack Developper</div>
                 <div className="profession-effect">Full-stack Developper</div>
-                <div>Oriented Front-end</div>
+                <div style={{fontFamily:"cursive"}}>Oriented Front-end</div>
                 <div className="cv">
                     <a href={pdfLink} download="FullStackCvAaronMindes">Download Resume</a>
                 </div>

@@ -4,6 +4,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 
+
     height: 100vh;
     position: relative;
 
@@ -15,13 +16,15 @@
         height: 100%;
         font-size: 7vw;
         transform: translate(0%, 80%);
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        // font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         color: transparent;
         -webkit-text-stroke: 2px rgba(0, 0, 0, 0.582);
+        margin-bottom: 20px;
 
         span {
             &:hover {
-                transition: all 0.1s ease-in-out;
+                transition: all 0.05s ease-in-out;
                 color: white;
                 text-shadow: 1px 1px 6px white;
                 cursor: pointer;
@@ -78,7 +81,9 @@
             position: absolute;
             top: 0;
             z-index: 1;
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            // font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
             font-size: 10vw;
             color: transparent;
             -webkit-text-stroke: 2px black;
@@ -90,7 +95,9 @@
             top: 0;
             font-size: 10vw;
             color: rgba(255, 255, 255, 0.664);
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            // font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
             animation: animate 4s ease-in-out infinite;
         }
 
@@ -100,6 +107,7 @@
             font-weight: bold;
             font-size: 4vh;
             opacity: 0.6;
+            font-family:cursive;
 
             &:hover {
                 cursor: pointer;

@@ -10,7 +10,6 @@ html,
   -moz-osx-font-smoothing: grayscale;
   color: white;
   overflow-x: hidden;
-  // background-color: #010409;
 
   a {
     color: white;
@@ -21,6 +20,9 @@ html,
     margin: 10px;
   }
 
+  &:hover{
+    cursor: default;
+  }
 
 }
 

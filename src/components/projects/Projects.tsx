@@ -28,7 +28,7 @@ const Projects = () => {
                     </li>
                     <li>
                         <h1 style={{ textAlign: "center" }}>Flight Management</h1>
-                        <div style={{ width: "600px" }}>
+                        <div style={{ width: "600px" , borderRadius:"20px" }}>
                             <video
                                 src={src}
                                 controls

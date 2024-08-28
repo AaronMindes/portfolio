@@ -11,7 +11,7 @@
         content: "";
         display: block;
         position: absolute;
-        border-radius: 100% 50%;
+        border-radius: 100% 52%;
         width: 55%;
         height: 80px;
         background-color: white;
@@ -23,7 +23,7 @@
         content: "";
         display: block;
         position: absolute;
-        border-radius: 100% 50%;
+        border-radius: 100% 38%;
         width: 55%;
         height: 100px;
         background-color: #010409;
@@ -58,11 +58,12 @@
                     width: 150px;
                     height: 150px;
                     border-radius: 50%;
-                    background-image: url("../../../assets/profile/aaronProfilPicChihrour.jpg");
+                    background-image: url("../../../assets/profile/aaronProfilPic.jpg");
+                    filter: brightness(1.2);
                     background-repeat: no-repeat;
                     background-size: cover;
                     background-position: 0px -40px;
-                    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.63);
+                    box-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.63);
                 }
             }
 
@@ -75,10 +76,22 @@
                 height: 100%;
 
                 .num {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
                     margin-top: 10px;
                 }
                 .name {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
                     margin-bottom: 10px;
+                }
+                .mail{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+
                 }
             }
         }
@@ -94,7 +107,7 @@
                 }
                 span{
                     padding: 5px;
-                    background-color: #0077b5;
+                    // background-color: #0077b5;
                 }
             }
             .YT{
@@ -103,7 +116,7 @@
                 }
                 span{
                     padding: 5px;
-                    background-color: #FF0000;
+                    // background-color: #FF0000;
                 }
             }
         }
