@@ -6,29 +6,29 @@ const Skills = () => {
         <div className='skills-container'>
             <h1>Skills</h1>
             <ul>
-                <li>Java Script</li>
-                <li>Type Script</li>
-                <li>CSS</li>
-                <li>SCSS</li>
-                <li>HTML</li>
-                <li>REACT</li>
-                <li>ANGULAR</li>
-                <li>HTTP</li>
-                <li>Web Scoket</li>
-                <li>NODE</li>
-                <li>NEST</li>
-                <li>REACT NATIVE</li>
-                <li>MONGODB</li>
-                <li>SQL</li>
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>Css</li>
+                <li>Scss</li>
+                <li>Html</li>
+                <li>React</li>
+                <li>Angular</li>
+                <li>Http</li>
+                <li>Web Socket</li>
+                <li>Node.js</li>
+                <li>Nest.js</li>
+                <li>React Native</li>
+                <li>MongoDB</li>
+                <li>Sql</li>
                 <li>Express</li>
                 <li>UI/UX Design</li>
-                <li>JIRA</li>
-                <li>GIT</li>
-                <li>GIT KRAKEN</li>
-                <li>JAVA</li>
+                <li>Jira</li>
+                <li>Git</li>
+                <li>Git Kraken</li>
+                <li>Java</li>
                 <li>C</li>
                 <li>C++</li>
-                <li>ANDROID</li>
+                <li>Android</li>
             </ul>
 
         </div>
