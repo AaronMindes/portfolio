@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8f32e15c.css",
+    "main.css": "/portfolio/static/css/main.26ae84a2.css",
     "main.js": "/portfolio/static/js/main.1f7fb106.js",
     "static/media/FlightManagementDemo.mp4": "/portfolio/static/media/FlightManagementDemo.8bb580e4d02b5298275b.mp4",
     "static/media/aaronProfilPic.jpg": "/portfolio/static/media/aaronProfilPic.8654e4efbe4120d45e75.jpg",
@@ -10,11 +10,11 @@
     "static/media/FullStackResumeAaronMindes.pdf": "/portfolio/static/media/FullStackResumeAaronMindes.ce5ca346ebf8751b28bd.pdf",
     "static/media/logo.png": "/portfolio/static/media/logo.8e64849d87ffe731cd43.png",
     "index.html": "/portfolio/index.html",
-    "main.8f32e15c.css.map": "/portfolio/static/css/main.8f32e15c.css.map",
+    "main.26ae84a2.css.map": "/portfolio/static/css/main.26ae84a2.css.map",
     "main.1f7fb106.js.map": "/portfolio/static/js/main.1f7fb106.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f32e15c.css",
+    "static/css/main.26ae84a2.css",
     "static/js/main.1f7fb106.js"
   ]
 }
