@@ -12,29 +12,31 @@ const Body = () => {
                         <div className="title">- Web Platform for Investigation and Research -</div>
                     </div>
                     <div className="content">
-                        <div className="border-top"></div>
-                        <p>As a Full Stack developer, I played a central role in creating an
-                            innovative web platform tailored for investigation and research,
-                            embedding live video streams and drone telemetry data.
-                        </p>
-                        <p>Designed and developed platform features from scratch to meet
-                            specific investigation needs.
-                        </p>
-                        <p>Proven ability to excel as a designer, optimizing user experience and
-                            delivering visually appealing interfaces.</p>
-                        <p>Leveraged Angular, Node.js, Nest.js, JS, TypeScript, Express and
-                            MongoDB skills to establish a robust tech ecosystem.
-                        </p>
-                        <p>Implemented Agile methodology for efficient, rapid, and adaptive
-                            development while using architecture of microservices.
-                        </p>
-                        <p>Experienced in efficient data transfer protocols and technologies for
-                            real-time data processing for live insights and data archiving for
-                            future reference (Wowza, hls , Kafka).</p>
-                        <p>Close collaboration with cross-functional teams to align with goals
-                            and ensure client satisfaction.</p>
-                        <p>Played a crucial role in project planning, feature development and
-                            deployment, ensuring smooth execution within project deadlines.</p>
+                        <ul>
+
+                            <li>As a Full Stack developer, I played a central role in creating an
+                                innovative web platform tailored for investigation and research,
+                                embedding live video streams and drone telemetry data.
+                            </li>
+                            <li>Designed and developed platform features from scratch to meet
+                                specific investigation needs.
+                            </li>
+                            <li>Proven ability to excel as a designer, optimizing user experience and
+                                delivering visually appealing interfaces.</li>
+                            <li>Leveraged Angular, Node.js, Nest.js, JS, TypeScript, Express and
+                                MongoDB skills to establish a robust tech ecosystem.
+                            </li>
+                            <li>Implemented Agile methodology for efficient, rapid, and adaptive
+                                development while using architecture of microservices.
+                            </li>
+                            <li>Experienced in efficient data transfer protocols and technologies for
+                                real-time data processing for live insights and data archiving for
+                                future reference (Wowza, hls , Kafka).</li>
+                            <li>Close collaboration with cross-functional teams to align with goals
+                                and ensure client satisfaction.</li>
+                            <li>Played a crucial role in project planning, feature development and
+                                deployment, ensuring smooth execution within project deadlines.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -46,9 +48,12 @@ const Body = () => {
                         <div className="title">ToGo+.</div>
                     </div>
                     <div className="content">
-                        <div className="border-top"></div>
-                        <p>Developed a coaching app while working with a team of designers
-                            and artists to ensure captivating visuals and animations.</p>
+                        <ul>
+                            <li>
+                                Developed a coaching app while working with a team of designers
+                                and artists to ensure captivating visuals and animations.
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>

@@ -1,0 +1,70 @@
+.navbar-container {
+
+    width: 100%;
+
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        font-family: 'Times New Roman', Times, serif;
+        padding-left: 5%;
+        padding-right: 5%;
+        flex-wrap: wrap;
+
+        li {
+            list-style: none;
+            margin: 10px;
+            font-weight: 500;
+
+            &:hover {
+                cursor: pointer;
+            }
+
+        }
+
+        li:not(.social-network):not(.initial):not(.linkedIn):not(.youtube):not(.github) {
+            &:hover {
+                color: #747d8c;
+                transition: color 0.2s ease-out;
+            }
+        }
+
+        .initial {
+            font-family: "Dancing Script", cursive;
+            font-size: 50px;
+
+            &:hover {
+                cursor: default;
+            }
+        }
+
+        .social-network {
+            display: flex;
+            text-align: end;
+            align-self: center;
+            justify-self: flex-end;
+            margin-left: auto;
+
+            .linkedIn {
+                &:hover {
+                    color: #1e90ff;
+                    transition: color 0.2s ease-out;
+                }
+            }
+
+            .youtube {
+                &:hover {
+                    color: #ff4757;
+                    transition: color 0.2s ease-out;
+                }
+            }
+
+            .github {
+                &:hover {
+                    color: #57606f;
+                    transition: color 0.2s ease-out;
+                }
+            }
+        }
+    }
+}

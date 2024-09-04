@@ -7,7 +7,7 @@ const Projects = () => {
     const src = require("./FlightManagementDemo.mp4")
 
     return (
-        <div className='projects-container'>
+        <div className='projects-container' id='#projects'>
             <div style={{ width: "80%", display: "flex", flexDirection: "column", alignItems: 'center', justifyContent: "center" }}>
 
                 <h1>Projects</h1>
